@@ -56,7 +56,7 @@ Book PDF and EPUB
 
 ## Clean Code Series
 1. [Clean Code Book](Java/Clean-Code-Series/[Book]Clean-Code.pdf)
-   - [Source Code](Java/Clean-Code-Series/[Source-Code]Clean-code/README.md)
+   - [Source Code](Java/Clean-Code-Series/[Source-Code]CleanCode/README.md)
 2. [Clean Coder Book](Java/Clean-Code-Series/[Book]Clean-Coder.pdf)
 2. Clean Code Source Code // TODO: Create folder. Clean Code Case Study repo 
 
