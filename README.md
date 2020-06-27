@@ -72,7 +72,7 @@ Book PDF and EPUB
 
 
 # Concurrency
-1. [Java Concurrency in Practice](Concurrency/Java-Concurrency-in-Practice/[Book]Java-Concurrency-in-Practice)
+1. [Java Concurrency in Practice](Concurrency/Java-Concurrency-in-Practice/[Book]Java-Concurrency-in-Practice.pdf)
    - [Source Code](Concurrency/Java-Concurrency-in-Practice/[Source-Code]Java-Concurrency-in-Practice/README.md)
 
 # Devops & SRE
