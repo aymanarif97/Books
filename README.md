@@ -31,7 +31,7 @@ Book PDF and EPUB
 # Concurrency
 
 1. [Java Concurrency in Practice by Brian Goetz](Concurrency/Java-Concurrency-in-Practice/[Book]Java-Concurrency-in-Practice.pdf)
-  - [Source Code]((Concurrency/Java-Concurrency-in-Practice/[Source-Code]Java-Concurrency-in-Practice.pdf)
+  - [Source Code](Concurrency/Java-Concurrency-in-Practice/[Source-Code]Java-Concurrency-in-Practice.pdf)
 
 # Devops-SRE
 
@@ -112,7 +112,7 @@ Book PDF and EPUB
 # Miscellaneous
 
 
-1. [Activi in Action](Miscellaneous/[Book]Activi-in-Action.pdf) 
+1. [Activi in Action](Miscellaneous/[Book]Activiti.in.Action.pdf) 
 2. [Enterprise OSGI in Action](Miscellaneous/[Book]enterprise-osgi-in-action.pdf)
 3. [HTTP2 in Action](Miscellaneous/[Book]HTTP2-in-Action.pdf)
 4. [Martin Fowler Refactoring](Miscellaneous/[Book]MartinFowler-Refactoring.pdf)
