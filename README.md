@@ -119,6 +119,10 @@ Book PDF and EPUB
 3. [HTTP2 in Action](Miscellaneous/[Book]HTTP2-in-Action.pdf)
 4. [Martin Fowler Refactoring](Miscellaneous/[Book]MartinFowler-Refactoring.pdf)
 
+## ML
+
+1. [Hands on ML with Scikit, Keras & Tensorflow](Miscellaneous/ML/[Book]Hands-OnMLwithScikit-Learn,Keras,andTensorflow.pdf)
+
 ## TDD
 1. [BDD in Action](Miscellaneous/TDD/[Book]BDD-in-action.pdf)
 2. [Unit testing 2020](Miscellaneous/TDD/[Book][Manning]Unit_Testing_(2020).pdf)
