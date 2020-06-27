@@ -30,12 +30,12 @@ Book PDF and EPUB
 
 ## Clean Code Series
 1. [Clean Code Book](Java/Clean-Code-Series/[Book]Clean-Code.pdf)
-   - [Source Code](Java/Clean-Code-Series/[Source-Code]Clean-code)
+   - [Source Code](Java/Clean-Code-Series/[Source-Code]Clean-code/README.md)
 2. [Clean Coder Book](Java/Clean-Code-Series/[Book]Clean-Coder.pdf)
 2. Clean Code Source Code // TODO: Create folder. Clean Code Case Study repo 
 ## Effective Java
 1. [Book](Java/Effective-Java/[Book]Effective-Java-3rd-Edition.pdf)
-2. [Source Code](https://github.com/jbloch/effective-java-3e-source-code) : Make your own Ayman [here](Java/Effective-Java/[Source-code]Effective-Java)
+2. [Source Code](https://github.com/jbloch/effective-java-3e-source-code) : Make your own Ayman [here](Java/Effective-Java/[Source-code]Effective-Java/README.md)
 
 ## [Jose Paumard Pluralsight Courses](https://www.pluralsight.com/authors/jose-paumard)
 ## Kotlin 
