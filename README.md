@@ -2,6 +2,7 @@
 Book PDF and EPUB
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 - [Cloud Computing](#cloud-computing)
