@@ -45,6 +45,7 @@ Book PDF and EPUB
 # Golang
 
 1. [Golang in Action](Golang/[Book]Go-in-Action.pdf)
+2. **To Download** - gRPC- Up and Running by Oreilly
 
 # Java
 
@@ -86,7 +87,6 @@ Book PDF and EPUB
 
 # Functional Programming
 
-# Golang
 
 # Javascript
 
@@ -106,10 +106,15 @@ Book PDF and EPUB
 
 # Software Architecture
 
+## Microservices
+1. [Building Microserives by Sam Newmann](Software-Architecture/Microservices/[Book]BuildingMicroservices-SamNewman.pdf)
+2. [Microserives Patterns - Manning](Software-Architecture/Microservices/[Book]Microservice-Patterns.pdf)
+
 1. [Designing Data Intensive Application](Software-Architecture/[Book]Designing-Data-Intensive-Applications.pdf)
 2. [Event Processing in Action](Software-Architecture/[Book]Event-Processing-in-Action.pdf)
 3. [RabbitMQ in Action](Software-Architecture/[Book]RabbitMQ-in-Action.pdf)
 4. [Redis in Action](Software-Architecture/[Book]Redis-in-Action.pdf)
+
 
 # Miscellaneous
 
