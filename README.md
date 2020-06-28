@@ -35,6 +35,8 @@ Book PDF and EPUB
 1. [Java Concurrency in Practice by Brian Goetz](Concurrency/Java-Concurrency-in-Practice/[Book]Java-Concurrency-in-Practice.pdf)
   - [Source Code](Concurrency/Java-Concurrency-in-Practice/[Source-Code]Java-Concurrency-in-Practice.pdf)
 
+2. [Venkat Subraminiam - Programming concurrency on JVM](Concurrency/[Book]ProgrammingConcurrencyontheJVMbyVK.pdf)
+
 # Devops-SRE
 
 1. [Devops Handbook by Gene Kim](Devops-SRE/[Book]DevOpsHandbook.epub)
@@ -86,9 +88,11 @@ Book PDF and EPUB
 
 
 # Functional Programming
-
+1. [Venkat Subraminiam - Functional Programming in Java: Harnessing the Power Of Java 8 Lambda Expressions](FunctionalProgramming/[Book][Java8]FunctionalProgramminginJava.pdf)
 
 # Javascript
+
+1. [Venkat Subraminiam - Rediscovering Javascript](Javascript/[Book]Rediscovering JavaScript_ MasterES6-ES9.pdf)
 
 ## NodeJS
 1. [NodeJS in Practice](Javascript/NodeJS/[Book]Node.js-in-Practice.pdf)
@@ -96,6 +100,7 @@ Book PDF and EPUB
 
 ## Angular
 1. [Angular in Action](Javascript/Angular/[Book]Angular-in-Action.pdf)
+2. [Angular - Up and Running](Javascript/Angular/[Book]Angular_ Up and Running.pdf)
 
 ## Vue
 
@@ -133,6 +138,7 @@ Book PDF and EPUB
 2. [Unit testing 2020](Miscellaneous/TDD/[Book][Manning]Unit_Testing_(2020).pdf)
 3. [TDD by Example Kent Beck](Miscellaneous/TDD/[Book]Test-Driven-Development-By-ExampleKentBeck.pdf)
 4. [Junit in Action 2nnd edition](Miscellaneous/TDD/[Book]JUnit-in-Action,SecondEdition.pdf)
+5. [Venkat Subraminiam - Test-Driving javascript Applications Rapid, Confident, Maintainable Code](Miscellaneous/TDD/[Book]Test-DrivingJavascriptApplications.pdf)
 
 ## .NET
 1. [DI Principles](Miscellaneous/[Book][.NET]Dependency-Injection-Principles,Practices,andPatterns.pdf)
