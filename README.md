@@ -139,6 +139,7 @@ Book PDF and EPUB
 3. [TDD by Example Kent Beck](Miscellaneous/TDD/[Book]Test-Driven-Development-By-ExampleKentBeck.pdf)
 4. [Junit in Action 2nnd edition](Miscellaneous/TDD/[Book]JUnit-in-Action,SecondEdition.pdf)
 5. [Venkat Subraminiam - Test-Driving javascript Applications Rapid, Confident, Maintainable Code](Miscellaneous/TDD/[Book]Test-DrivingJavascriptApplications.pdf)
+6. [Testing Java Microserivces](https://www.manning.com/books/testing-java-microservices)
 
 ## .NET
 1. [DI Principles](Miscellaneous/[Book][.NET]Dependency-Injection-Principles,Practices,andPatterns.pdf)
